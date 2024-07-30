@@ -9,6 +9,7 @@ txtfld=Entry(window, text="This is Entry Widget", bd=5)
 txtfld.place(x=120, y=150)
 #widgets
 
+
 window.title(' maxio')
 window.geometry("300x500+10+20")
 window.mainloop()
